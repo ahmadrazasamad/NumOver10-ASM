@@ -25,6 +25,9 @@ The program performs the following steps:
 - Code Segment:
   - Main proc - Main procedure.
   - printDigit proc - Procedure to print a single digit.
+## Output
+![number is](https://github.com/user-attachments/assets/b4f5fbb3-d58e-425a-a191-8764a5494dcb)<br/>
+![invalid](https://github.com/user-attachments/assets/cf875148-19fb-4737-99f8-a047f5ebd6e9)
 ## Example
 To change the number, modify the value of `number` in the data segment:
 ```
